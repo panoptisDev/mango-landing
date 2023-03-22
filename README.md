@@ -1,3 +1,5 @@
+![alt text](https://iili.io/HhcEDRj.png)
+https://iili.io/HhcEDRj.png
 # NextJS Typescript Boilerplate
 
 Bootstrap a developer-friendly NextJS app configured with:
